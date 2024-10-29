@@ -1,0 +1,39 @@
+/*default style reset*/
+
+.qsd-content-area a {
+	text-decoration: none !important;
+}
+.single-adqs_directory .qsd-content-area :is(h1, h2, h3, h4, h5, h6) {
+	margin: 0;
+}
+.qsd-content-area :is(input, select, textarea) {
+	margin: 0 !important;
+	padding: 0 !important;
+	background: transparent;
+}
+
+.line-clamp-1 {
+	overflow: hidden;
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 1;
+}
+.line-clamp-2 {
+	overflow: hidden;
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 2;
+}
+.line-clamp-3 {
+	overflow: hidden;
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 3;
+}
+.line-clamp-4 {
+	overflow: hidden;
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 4;
+}
+/*default style reset*/

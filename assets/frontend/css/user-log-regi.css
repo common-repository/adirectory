@@ -1,0 +1,223 @@
+.adqs-log-regi-tabs {
+	position: relative;
+	width: 550px;
+	margin: 0 auto;
+	border-radius: 8px;
+	border: 1px solid #d8e4ff;
+	padding: 50px 40px;
+	font-family: "Urbanist", sans-serif;
+}
+.adqs-log-regi-tabs ul,
+.adqs-log-regi-tabs ul li {
+	padding: 0 !important;
+}
+.adqs-log-regi-tabs:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+.adqs-log-regi-tabs nav {
+	overflow: hidden;
+	position: relative;
+}
+.adqs-log-regi-tabs-navigation:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+.adqs-log-regi-tabs-navigation {
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	background-color: #fff;
+}
+.adqs-log-regi-tabs-navigation li {
+	display: block;
+	float: left;
+	height: 60px;
+	width: 49%;
+	max-width: 298px;
+	line-height: 60px;
+	text-align: center;
+}
+.adqs-log-regi-tabs-navigation a {
+	position: relative;
+	display: block;
+	height: 60px;
+	width: 100%;
+	font-size: 18px;
+	color: #1f2023;
+	border: 1px solid #d8e4ff;
+	border-radius: 4px;
+	background-color: transparent;
+	font-size: 18px;
+	font-weight: 500;
+	text-decoration: none;
+}
+
+.adqs-log-regi-tabs-navigation a[data-content="signup"]::before {
+	left: 20%;
+}
+
+@media only screen and (max-width: 768px) {
+	.adqs-log-regi-tabs-navigation a::before {
+		left: 20%;
+	}
+	.adqs-log-regi-tabs-navigation a[data-content="signup"]::before {
+		left: 8%;
+	}
+}
+.adqs-log-regi-tabs-navigation a.selected {
+	background-color: #d8e4ff;
+	color: rgb(30, 30, 255);
+}
+
+.adqs-log-regi-tabs-content {
+	background: #fff;
+	margin: 0;
+}
+.adqs-log-regi-tabs-content li {
+	display: none;
+}
+.adqs-log-regi-tabs-content li.selected {
+	display: block;
+	-webkit-animation: cd-fade-in 0.5s;
+	animation: cd-fade-in 0.5s;
+}
+form {
+	display: block;
+}
+.adqs-form-fields {
+	position: relative;
+	display: block;
+	width: 100%;
+	height: 60px;
+	margin: 25px 0;
+}
+.adqs-form-fields input {
+	position: relative;
+	border: none;
+	display: block;
+	width: 100%;
+	height: 45px;
+	outline: none;
+	font-size: 14px;
+	color: #606c7d;
+	background: #fafbff;
+	border: 1px solid #d8e4ff;
+}
+
+.adqs-form-fields input:focus {
+	border: none !important;
+}
+
+.adqs-form-fields label {
+	font-size: 16px;
+	color: #606c7d;
+	text-transform: capitalize;
+	margin-bottom: 9px;
+}
+
+input.adqs-log-regi-btn {
+	background: #2b69fa;
+	border: none;
+	width: 100%;
+	text-align: center;
+	padding: 20px 0;
+	border-radius: 4px;
+	color: #ffffff;
+	font-size: 18px;
+	margin-top: 10px;
+}
+
+input.adqs-log-regi-btn:hover {
+	background: navy;
+}
+
+.adqs-form-fields.rememeber-check {
+	display: flex;
+	align-items: center;
+	margin: 15px 0;
+	height: auto;
+}
+
+.adqs-form-fields.rememeber-check input {
+	width: 14px;
+	height: 14px;
+	margin-right: 12px;
+}
+
+.adqs-form-fields.rememeber-check span {
+	color: #1f2023;
+	font-size: 14px;
+	font-weight: 500;
+}
+
+.adqs-input-wrapper {
+	position: relative;
+}
+
+.adqs-input-wrapper .icon {
+	position: absolute;
+	top: 50%;
+	transform: translateY(-35%);
+	right: 15px;
+}
+.adqs-login-regi-error {
+	margin-top: 34px;
+	color: red;
+}
+
+.adqs-input-wrapper .icon i {
+	color: #afbbcc;
+}
+
+.error {
+	display: none;
+	position: absolute;
+	width: 184px;
+	line-height: 18px;
+	top: -198px;
+	left: 353px;
+	padding: 10px;
+	color: #dc3b3b;
+	background: rgba(255, 0, 0, 0.17);
+	text-transform: uppercase;
+	font-size: 15px;
+	text-align: center;
+}
+
+/* Eye and eyslash on password */
+.adqs-input-wrapper .icon i {
+	cursor: pointer;
+}
+.adqs-input-wrapper .icon i:nth-child(2) {
+	display: none;
+}
+.adqs-input-wrapper .icon.clicked i:nth-child(2) {
+	display: block;
+}
+.adqs-input-wrapper .icon.clicked i:nth-child(1) {
+	display: none;
+}
+
+.adqs-form-fields.rememeber-check label {
+	margin: 0;
+}
+
+@-webkit-keyframes cd-fade-in {
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+@keyframes cd-fade-in {
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+}

@@ -1,0 +1,21 @@
+.adqs_listing_type_wrap,
+.adqs_listing_type_wrap .adqs_listing_type_input {
+   display: flex;
+   align-items: center;
+}
+
+.adqs_listing_type_wrap .adqs_listing_type_input+.adqs_listing_type_input {
+   margin-left: 15px;
+}
+
+.adqs_listing_type_wrap .adqs_listing_type_input label {
+   white-space: nowrap;
+}
+.adqs_listing_type_wrap .adqs_listing_type_input input[type="checkbox"] {
+   margin-top: -1px;
+   margin-right: 4px;
+}
+.adqs_listing_type_wrap .adqs_listing_type_input input[type="checkbox"] {
+   margin-top: 0;
+   margin-right: 5px;
+}

@@ -1,0 +1,72 @@
+.qsd-checkbox-dropdown span {
+	display: block;
+}
+.qsd-dropdown {
+	position: relative;
+	font-size: 14px;
+	color: #333;
+}
+.qsd-dropdown .qsd-dropdown-list {
+	background: #fff;
+	position: absolute;
+	top: 30px;
+	left: 2px;
+	right: 2px;
+	box-shadow: 0 1px 2px 1px rgba(0, 0, 0, 0.15);
+	transform-origin: 50% 0;
+	transform: scale(1, 0);
+	transition: transform 0.15s ease-in-out 0.15s;
+	max-height: 66vh;
+	overflow-y: auto;
+}
+.qsd-dropdown-option[data-toggle="check-all"] {
+	background: #f0f0f1;
+	font-weight: 700;
+	color: #008000;
+	cursor: pointer;
+}
+.qsd-dropdown .qsd-dropdown-option {
+	display: block;
+	padding: 5px 12px;
+	opacity: 0;
+	transition: opacity 0.15s ease-in-out;
+	border: 0.5px solid #ddd;
+}
+
+.qsd-dropdown .qsd-dropdown-label {
+	display: block;
+	height: 15px;
+	color: #2c3338;
+	border-radius: 3px;
+	border: 1px solid #8c8f94;
+	padding: 7px;
+	line-height: 1;
+	cursor: pointer;
+}
+.qsd-dropdown.on
+	.qsd-dropdown-list
+	.qsd-dropdown-option
+	+ .qsd-dropdown-option {
+	border-top: none;
+}
+.qsd-dropdown .qsd-dropdown-label:before {
+	content: "\f347";
+	font-family: dashicons;
+	float: right;
+}
+.qsd-dropdown.on .qsd-dropdown-list {
+	transform: scale(1, 1);
+	transition-delay: 0s;
+}
+.qsd-dropdown.on .qsd-dropdown-list .qsd-dropdown-option {
+	opacity: 1;
+	transition-delay: 0.2s;
+}
+.qsd-dropdown.on .qsd-dropdown-label:before {
+	content: "\f343";
+}
+.qsd-dropdown [type="checkbox"] {
+	position: relative;
+	top: -1px;
+	margin-right: 4px;
+}

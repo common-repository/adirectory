@@ -1,0 +1,44 @@
+.column-adqs_category_icon i {
+	font-size: 20px;
+}
+.uip-modal--sidebar-tab-item.hidden {
+	display: none !important;
+}
+
+.term-icon-picker {
+	display: flex;
+	width: 100%;
+	margin: 0 -10px;
+	align-items: center;
+}
+
+.term-icon-picker #btn-select {
+	border: 1px solid #ddd;
+	background: #fff;
+	padding: 10px;
+	flex: 1;
+	margin: 0 10px;
+
+}
+
+.term-icon-picker #btn-select:hover {
+	border: 1px solid #ddd;
+}
+
+.term-icon-picker #btn-reset {
+	color: #b32d2e;
+}
+
+.term-icon-picker > div {
+	cursor: pointer;
+}
+
+.uip-modal .uip-modal--footer button.uip-insert-icon-button {
+	background-color: #2271b1 !important;
+
+}
+
+#btn-select i {
+	font-size: 15px;
+	margin-right: 7px;
+}
