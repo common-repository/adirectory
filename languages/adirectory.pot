@@ -1,0 +1,2127 @@
+# Copyright (C) 2024 adirectory
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: aDirectory 1.2.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/qs-directories-wp\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-09-03T10:30:16+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: adirectory\n"
+
+#. Plugin Name of the plugin
+#: C:\laragon\www\adirectory\wp-content\plugins\qs-directories-wp\adirectory.php
+#: inc/Database/Custom_Posts/Directory.php:51
+msgid "aDirectory"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: C:\laragon\www\adirectory\wp-content\plugins\qs-directories-wp\adirectory.php
+msgid "https://profiles.wordpress.org/adirectory"
+msgstr ""
+
+#. Description of the plugin
+#: C:\laragon\www\adirectory\wp-content\plugins\qs-directories-wp\adirectory.php
+msgid "Directory Plugins that help to build Business Directory, Classified listing and WordPress Listing Directory websites."
+msgstr ""
+
+#. Author of the plugin
+#: C:\laragon\www\adirectory\wp-content\plugins\qs-directories-wp\adirectory.php
+msgid "adirectory"
+msgstr ""
+
+#. Author URI of the plugin
+#: C:\laragon\www\adirectory\wp-content\plugins\qs-directories-wp\adirectory.php
+msgid "http://adirectory.io"
+msgstr ""
+
+#: inc/Addons/elementor/widgets/class.topmisc.php:41
+msgid "AD : Top Misc"
+msgstr ""
+
+#: inc/Addons/elementor/widgets/class.topmisc.php:120
+msgid "Hide Compare Listing"
+msgstr ""
+
+#: inc/Addons/elementor/widgets/class.topmisc.php:122
+#: inc/Addons/elementor/widgets/class.topmisc.php:163
+#: inc/Addons/elementor/widgets/class.topmisc.php:200
+#: inc/Addons/elementor/widgets/class.topmisc.php:250
+msgid "Show"
+msgstr ""
+
+#: inc/Addons/elementor/widgets/class.topmisc.php:123
+#: inc/Addons/elementor/widgets/class.topmisc.php:164
+#: inc/Addons/elementor/widgets/class.topmisc.php:201
+#: inc/Addons/elementor/widgets/class.topmisc.php:251
+msgid "Hide"
+msgstr ""
+
+#: inc/Addons/elementor/widgets/class.topmisc.php:132
+#: inc/Addons/elementor/widgets/class.topmisc.php:173
+#: inc/Addons/elementor/widgets/class.topmisc.php:210
+#: inc/Addons/elementor/widgets/class.topmisc.php:260
+#: inc/Database/Custom_Taxonomy/Categories.php:78
+msgid "Icon"
+msgstr ""
+
+#: inc/Addons/elementor/widgets/class.topmisc.php:161
+msgid "Hide Favourite Listing"
+msgstr ""
+
+#: inc/Addons/elementor/widgets/class.topmisc.php:198
+msgid "Hide Add Listing"
+msgstr ""
+
+#: inc/Addons/elementor/widgets/class.topmisc.php:225
+msgid "Add Listing Button Text"
+msgstr ""
+
+#: inc/Addons/elementor/widgets/class.topmisc.php:227
+#: inc/Admin/Ajax/Ajax_Setting.php:129
+#: inc/Init.php:220
+msgid "Add Listing"
+msgstr ""
+
+#: inc/Addons/elementor/widgets/class.topmisc.php:231
+#: inc/Addons/elementor/widgets/class.topmisc.php:281
+msgid "Type your title here"
+msgstr ""
+
+#: inc/Addons/elementor/widgets/class.topmisc.php:248
+msgid "Hide Account"
+msgstr ""
+
+#: inc/Addons/elementor/widgets/class.topmisc.php:275
+msgid "Account Button Text"
+msgstr ""
+
+#: inc/Addons/elementor/widgets/class.topmisc.php:277
+msgid "My Account"
+msgstr ""
+
+#: inc/Addons/elementor/widgets/class.topmisc.php:293
+msgid "Global Styles"
+msgstr ""
+
+#: inc/Addons/elementor/widgets/class.topmisc.php:314
+msgid "Compare Styles"
+msgstr ""
+
+#: inc/Addons/elementor/widgets/class.topmisc.php:323
+msgid "Compare Svg Color"
+msgstr ""
+
+#: inc/Addons/elementor/widgets/class.topmisc.php:335
+msgid "Compare Svg Size"
+msgstr ""
+
+#: inc/Addons/elementor/widgets/class.topmisc.php:365
+msgid "Compare Outer Bg"
+msgstr ""
+
+#: inc/Addons/elementor/widgets/class.topmisc.php:378
+msgid "Compare Count Bg"
+msgstr ""
+
+#: inc/Addons/elementor/widgets/class.topmisc.php:389
+msgid "Compare Count Font Color"
+msgstr ""
+
+#: inc/Addons/elementor/widgets/class.topmisc.php:407
+msgid "Favourite Styles"
+msgstr ""
+
+#: inc/Addons/elementor/widgets/class.topmisc.php:416
+msgid "Favourite Svg Color"
+msgstr ""
+
+#: inc/Addons/elementor/widgets/class.topmisc.php:428
+msgid "Favourite Svg Size"
+msgstr ""
+
+#: inc/Addons/elementor/widgets/class.topmisc.php:457
+msgid "Favourite Outer Bg"
+msgstr ""
+
+#: inc/Addons/elementor/widgets/class.topmisc.php:470
+msgid "Favourite Count Bg"
+msgstr ""
+
+#: inc/Addons/elementor/widgets/class.topmisc.php:482
+msgid "Favourite Count Text Color"
+msgstr ""
+
+#: inc/Addons/elementor/widgets/class.topmisc.php:498
+msgid "Add Listing  Styles"
+msgstr ""
+
+#: inc/Addons/elementor/widgets/class.topmisc.php:507
+msgid "Addlist icon Svg Color"
+msgstr ""
+
+#: inc/Addons/elementor/widgets/class.topmisc.php:531
+msgid "Addlist Svg Size"
+msgstr ""
+
+#: inc/Addons/elementor/widgets/class.topmisc.php:561
+msgid "Addlist btn text Color"
+msgstr ""
+
+#: inc/Addons/elementor/widgets/class.topmisc.php:574
+msgid "Button Padding"
+msgstr ""
+
+#: inc/Addons/elementor/widgets/class.topmisc.php:587
+msgid "Addlist Button Bg"
+msgstr ""
+
+#: inc/Addons/elementor/widgets/class.topmisc.php:600
+msgid "Add List Font Size Font Size"
+msgstr ""
+
+#: inc/Addons/elementor/widgets/class.topmisc.php:633
+msgid "Account Styles"
+msgstr ""
+
+#: inc/Addons/elementor/widgets/class.topmisc.php:642
+msgid "Account icon Svg Color"
+msgstr ""
+
+#: inc/Addons/elementor/widgets/class.topmisc.php:665
+msgid "Account Svg Size"
+msgstr ""
+
+#: inc/Addons/elementor/widgets/class.topmisc.php:695
+msgid "Account btn text Color"
+msgstr ""
+
+#: inc/Addons/elementor/widgets/class.topmisc.php:708
+msgid "ACCOUNT Button Padding"
+msgstr ""
+
+#: inc/Addons/elementor/widgets/class.topmisc.php:721
+msgid "account Button Bg"
+msgstr ""
+
+#: inc/Addons/elementor/widgets/class.topmisc.php:734
+msgid "Account Font Size Font Size"
+msgstr ""
+
+#: inc/Addons/ElementorAddon.php:42
+msgid "ADirectory"
+msgstr ""
+
+#: inc/Admin/Ajax/Ajax_Base.php:100
+msgid "You can't do the action."
+msgstr ""
+
+#: inc/Admin/Ajax/Ajax_Errors.php:25
+msgid "Sorry, you are not allowed to do this operation."
+msgstr ""
+
+#: inc/Admin/Ajax/Ajax_Errors.php:26
+msgid "Nonce validation failed"
+msgstr ""
+
+#: inc/Admin/Ajax/Ajax_Errors.php:27
+msgid "Sorry, something went wrong."
+msgstr ""
+
+#: inc/Admin/Ajax/Ajax_Setting.php:77
+msgid "Same value already exist"
+msgstr ""
+
+#: inc/Admin/Ajax/Ajax_Setting.php:88
+msgid "Settings saved successfully"
+msgstr ""
+
+#: inc/Admin/Ajax/Ajax_Setting.php:108
+#: inc/Database/Custom_Posts/Directory.php:37
+#: inc/Database/Custom_Posts/Directory.php:50
+#: inc/Init.php:196
+msgid "All Listings"
+msgstr ""
+
+#: inc/Admin/Ajax/Ajax_Setting.php:115
+#: inc/Init.php:204
+msgid "All Location"
+msgstr ""
+
+#: inc/Admin/Ajax/Ajax_Setting.php:122
+#: inc/Init.php:213
+msgid "All Categories"
+msgstr ""
+
+#: inc/Admin/Ajax/Ajax_Setting.php:136
+#: inc/Init.php:227
+msgid "User Dashboard"
+msgstr ""
+
+#: inc/Admin/Ajax/Ajax_Setting.php:143
+msgid "Login Regi"
+msgstr ""
+
+#: inc/Admin/Ajax/Ajax_Setting.php:164
+#: inc/Init.php:254
+msgid "%s"
+msgstr ""
+
+#: inc/Admin/Customize.php:53
+msgid "Select directory type"
+msgstr ""
+
+#: inc/Admin/Customize.php:102
+#: inc/Database/Traits/Metabox_Fields/fields-template/preset-fields/address.php:5
+#: inc/Init.php:133
+#: inc/Init.php:134
+msgid "Address"
+msgstr ""
+
+#: inc/Admin/Customize.php:103
+#: inc/Database/Traits/Metabox_Fields/fields-template/preset-fields/phone.php:6
+#: inc/Frontend/Ajax.php:827
+#: inc/Init.php:105
+#: inc/Init.php:106
+#: templates/global/widgets/contact-author.php:60
+msgid "Phone"
+msgstr ""
+
+#: inc/Admin/Customize.php:104
+msgid "Facebook profile"
+msgstr ""
+
+#: inc/Admin/Customize.php:105
+msgid "Twitter profile"
+msgstr ""
+
+#: inc/Admin/Customize.php:106
+msgid "Instagram profile"
+msgstr ""
+
+#: inc/Admin/Customize.php:107
+msgid "LinkedIn profile"
+msgstr ""
+
+#: inc/Admin/ImportExport/Export.php:61
+#: inc/Admin/ImportExport/Import.php:43
+msgid "You do not have permission to access this resource."
+msgstr ""
+
+#: inc/Admin/ImportExport/Form.php:10
+msgid "Import"
+msgstr ""
+
+#: inc/Admin/ImportExport/Form.php:11
+msgid "Export"
+msgstr ""
+
+#: inc/Admin/ImportExport/Form.php:29
+msgid "Drag & drop any file here"
+msgstr ""
+
+#: inc/Admin/ImportExport/Form.php:32
+msgid "or"
+msgstr ""
+
+#: inc/Admin/ImportExport/Form.php:34
+msgid "Browse File"
+msgstr ""
+
+#: inc/Admin/ImportExport/Form.php:34
+msgid "from device"
+msgstr ""
+
+#: inc/Admin/ImportExport/Form.php:39
+msgid "Please Wait for download and insert attachment..."
+msgstr ""
+
+#: inc/Admin/ImportExport/Form.php:42
+msgid "Please select a file first"
+msgstr ""
+
+#: inc/Admin/ImportExport/Import.php:47
+msgid "No file uploaded."
+msgstr ""
+
+#: inc/Admin/ImportExport/Import.php:58
+msgid "File upload failed."
+msgstr ""
+
+#: inc/Admin/ImportExport/Import.php:71
+msgid "Failed to move uploaded file."
+msgstr ""
+
+#: inc/Admin/ImportExport/Import.php:80
+msgid "Failed to open ZIP file."
+msgstr ""
+
+#: inc/Admin/ImportExport/Import.php:472
+msgid "File not found: "
+msgstr ""
+
+#: inc/Admin/Menu.php:31
+msgid "A Directory Builder Page"
+msgstr ""
+
+#: inc/Admin/Menu.php:32
+msgid "Settings & Builder"
+msgstr ""
+
+#: inc/Admin/Menu.php:40
+msgid "A Directory Review Page"
+msgstr ""
+
+#: inc/Admin/Menu.php:41
+#: inc/Frontend/Ajax.php:719
+#: templates/archive/author-info.php:23
+#: templates/content-agents.php:78
+#: templates/single-listing-reviews.php:40
+msgid "Reviews"
+msgstr ""
+
+#: inc/Admin/Menu.php:55
+msgid "CSV Import Export Page"
+msgstr ""
+
+#: inc/Admin/Menu.php:56
+msgid "Import / Export"
+msgstr ""
+
+#: inc/Admin/Setting.php:19
+msgid "Argentine Peso $"
+msgstr ""
+
+#: inc/Admin/Setting.php:20
+msgid "Australian Dollar $"
+msgstr ""
+
+#: inc/Admin/Setting.php:21
+msgid "Bangladeshi Taka ৳"
+msgstr ""
+
+#: inc/Admin/Setting.php:22
+msgid "Bahraini Dinar BD"
+msgstr ""
+
+#: inc/Admin/Setting.php:23
+msgid "Botswana Pula P"
+msgstr ""
+
+#: inc/Admin/Setting.php:24
+msgid "Canadian Dollar $"
+msgstr ""
+
+#: inc/Admin/Setting.php:25
+msgid "Swiss Franc CHF"
+msgstr ""
+
+#: inc/Admin/Setting.php:26
+msgid "Chilean Peso $"
+msgstr ""
+
+#: inc/Admin/Setting.php:27
+msgid "Chinese Yuan ¥"
+msgstr ""
+
+#: inc/Admin/Setting.php:28
+msgid "Colombian Peso $"
+msgstr ""
+
+#: inc/Admin/Setting.php:29
+msgid "Czech Koruna Kč"
+msgstr ""
+
+#: inc/Admin/Setting.php:30
+msgid "Danish Krone kr"
+msgstr ""
+
+#: inc/Admin/Setting.php:31
+msgid "Euro €"
+msgstr ""
+
+#: inc/Admin/Setting.php:32
+msgid "British Pound £"
+msgstr ""
+
+#: inc/Admin/Setting.php:33
+msgid "Hong Kong Dollar HK$"
+msgstr ""
+
+#: inc/Admin/Setting.php:34
+msgid "Croatian Kuna kn"
+msgstr ""
+
+#: inc/Admin/Setting.php:35
+msgid "Hungarian Forint Ft"
+msgstr ""
+
+#: inc/Admin/Setting.php:36
+msgid "Indian Rupee ₹"
+msgstr ""
+
+#: inc/Admin/Setting.php:37
+msgid "Indonesian Rupiah Rp"
+msgstr ""
+
+#: inc/Admin/Setting.php:38
+msgid "Israeli New Shekel ₪"
+msgstr ""
+
+#: inc/Admin/Setting.php:39
+msgid "Japanese Yen ¥"
+msgstr ""
+
+#: inc/Admin/Setting.php:40
+msgid "South Korean Won ₩"
+msgstr ""
+
+#: inc/Admin/Setting.php:41
+msgid "Sri Lankan Rupee ₨"
+msgstr ""
+
+#: inc/Admin/Setting.php:42
+msgid "Mexican Peso $"
+msgstr ""
+
+#: inc/Admin/Setting.php:43
+msgid "Malaysian Ringgit RM"
+msgstr ""
+
+#: inc/Admin/Setting.php:44
+msgid "Nigerian Naira ₦"
+msgstr ""
+
+#: inc/Admin/Setting.php:45
+msgid "Norwegian Krone kr"
+msgstr ""
+
+#: inc/Admin/Setting.php:46
+msgid "New Zealand Dollar NZ$"
+msgstr ""
+
+#: inc/Admin/Setting.php:47
+msgid "Pakistani Rupee ₨"
+msgstr ""
+
+#: inc/Admin/Setting.php:48
+msgid "Polish Zloty zł"
+msgstr ""
+
+#: inc/Admin/Setting.php:49
+msgid "Russian Ruble ₽"
+msgstr ""
+
+#: inc/Admin/Setting.php:50
+msgid "Saudi Riyal ر.س"
+msgstr ""
+
+#: inc/Admin/Setting.php:51
+msgid "Swedish Krona kr"
+msgstr ""
+
+#: inc/Admin/Setting.php:52
+msgid "Singapore Dollar S$"
+msgstr ""
+
+#: inc/Admin/Setting.php:53
+msgid "Thai Baht ฿"
+msgstr ""
+
+#: inc/Admin/Setting.php:54
+msgid "Trinidad and Tobago Dollar TT$"
+msgstr ""
+
+#: inc/Admin/Setting.php:55
+msgid "Turkish Lira ₺"
+msgstr ""
+
+#: inc/Admin/Setting.php:56
+msgid "United States Dollar US$"
+msgstr ""
+
+#: inc/Admin/Setting.php:57
+msgid "Vietnamese Dong ₫"
+msgstr ""
+
+#: inc/Admin/Setting.php:58
+msgid "South African Rand R"
+msgstr ""
+
+#: inc/Admin/Setting.php:69
+msgid "General"
+msgstr ""
+
+#: inc/Admin/Setting.php:75
+msgid "Pages"
+msgstr ""
+
+#: inc/Admin/Setting.php:81
+msgid "Shortcodes"
+msgstr ""
+
+#: inc/Admin/Setting.php:94
+msgid "Payment"
+msgstr ""
+
+#: inc/Admin/Setting.php:99
+msgid "Bank Transfer"
+msgstr ""
+
+#: inc/Admin/Setting.php:103
+#: inc/Admin/Setting.php:210
+msgid "Paypal"
+msgstr ""
+
+#: inc/Admin/Setting.php:115
+#: inc/Admin/Setting.php:214
+msgid "Stripe"
+msgstr ""
+
+#: inc/Admin/Setting.php:124
+msgid "Extensions"
+msgstr ""
+
+#: inc/Admin/Setting.php:135
+msgid "Listing default expire days"
+msgstr ""
+
+#: inc/Admin/Setting.php:142
+msgid "Listing per page"
+msgstr ""
+
+#: inc/Admin/Setting.php:149
+msgid "Default Preview Image"
+msgstr ""
+
+#: inc/Admin/Setting.php:155
+msgid "Hide email agent page"
+msgstr ""
+
+#: inc/Admin/Setting.php:162
+msgid "Select Currency"
+msgstr ""
+
+#: inc/Admin/Setting.php:170
+msgid "Filters Button Text"
+msgstr ""
+
+#: inc/Admin/Setting.php:176
+msgid "Client ID"
+msgstr ""
+
+#: inc/Admin/Setting.php:182
+msgid "Card With Ajax"
+msgstr ""
+
+#: inc/Admin/Setting.php:189
+msgid "Publishable Key"
+msgstr ""
+
+#: inc/Admin/Setting.php:195
+msgid "Secret Key"
+msgstr ""
+
+#: inc/Admin/Setting.php:201
+msgid "Payment Methods"
+msgstr ""
+
+#: inc/Admin/Setting.php:218
+msgid "Paddle"
+msgstr ""
+
+#: inc/Admin/Setting.php:226
+msgid "Enable/Disable"
+msgstr ""
+
+#: inc/Admin/Setting.php:233
+msgid "Bank Account Details"
+msgstr ""
+
+#: inc/Admin/Setting.php:243
+msgid "Regenerate Pages"
+msgstr ""
+
+#: inc/Admin/Setting.php:271
+msgid "All Listing Shortcode"
+msgstr ""
+
+#: inc/Admin/Setting.php:278
+msgid "All Location Shortcode"
+msgstr ""
+
+#: inc/Admin/Setting.php:285
+msgid "All Categories Shortcode"
+msgstr ""
+
+#: inc/Admin/Setting.php:292
+msgid "Add Listing Shortcode"
+msgstr ""
+
+#: inc/Admin/Setting.php:299
+msgid "User Dashboard Shortcode"
+msgstr ""
+
+#: inc/Admin/Setting.php:306
+msgid "Login/Registration Shortcode"
+msgstr ""
+
+#: inc/Admin/Setting.php:313
+msgid "All Agents Shortcode"
+msgstr ""
+
+#. translators: %s: Placeholder for the singular label
+#. translators: Placeholder for the singular label
+#: inc/Database/Base/Custom_Posts.php:55
+#: inc/Database/Base/Custom_Posts.php:58
+#: inc/Database/Base/Custom_Taxonomy.php:56
+#: inc/Database/Base/Custom_Taxonomy.php:59
+msgid "Add New %s"
+msgstr ""
+
+#. translators: %s: Placeholder for the singular label
+#. translators: Placeholder for the singular label
+#: inc/Database/Base/Custom_Posts.php:61
+#: inc/Database/Base/Custom_Taxonomy.php:62
+msgid "Edit %s"
+msgstr ""
+
+#. translators: %s: Placeholder for the singular label
+#. translators: %s: Placeholder for the plural label
+#: inc/Database/Base/Custom_Posts.php:64
+#: inc/Database/Base/Custom_Posts.php:67
+msgid "New %s"
+msgstr ""
+
+#. translators: %s: Placeholder for the plural label
+#. translators: Placeholder for the plural label
+#: inc/Database/Base/Custom_Posts.php:70
+#: inc/Database/Base/Custom_Taxonomy.php:71
+msgid "Search %s"
+msgstr ""
+
+#. translators: %s: Placeholder for the plural label
+#: inc/Database/Base/Custom_Posts.php:73
+#: inc/Database/Base/Custom_Posts.php:76
+msgid "No %s"
+msgstr ""
+
+#. translators: %s: Placeholder for the singular label
+#. translators: Placeholder for the singular label
+#. translators: Placeholder for the plural label
+#: inc/Database/Base/Custom_Posts.php:79
+#: inc/Database/Base/Custom_Taxonomy.php:80
+#: inc/Database/Base/Custom_Taxonomy.php:86
+msgid "Parent %s"
+msgstr ""
+
+#. translators: Placeholder for the singular label
+#: inc/Database/Base/Custom_Taxonomy.php:65
+msgid "Update %s"
+msgstr ""
+
+#. translators: Placeholder for the plural label
+#: inc/Database/Base/Custom_Taxonomy.php:68
+msgid "Add or remove %s"
+msgstr ""
+
+#. translators: Placeholder for the plural label
+#: inc/Database/Base/Custom_Taxonomy.php:74
+msgid "Popular %s"
+msgstr ""
+
+#. translators: Placeholder for the plural label
+#: inc/Database/Base/Custom_Taxonomy.php:77
+msgid "All %s"
+msgstr ""
+
+#. translators: Placeholder for the plural label
+#: inc/Database/Base/Custom_Taxonomy.php:83
+msgid "Choose from the most used %s"
+msgstr ""
+
+#: inc/Database/Custom_Metabox/Directory_Type.php:47
+#: inc/Database/Custom_Metabox/Directory_Type_Frontend.php:234
+msgid "Directory Type Selection"
+msgstr ""
+
+#: inc/Database/Custom_Metabox/Directory_Type.php:48
+#: inc/Database/Custom_Metabox/Directory_Type_Frontend.php:235
+msgid "Slider Images"
+msgstr ""
+
+#: inc/Database/Custom_Metabox/Directory_Type.php:78
+msgid "Featured"
+msgstr ""
+
+#: inc/Database/Custom_Metabox/Directory_Type.php:79
+msgid " This Listing Item"
+msgstr ""
+
+#: inc/Database/Custom_Metabox/Directory_Type.php:96
+msgid "Expiration"
+msgstr ""
+
+#: inc/Database/Custom_Metabox/Directory_Type.php:97
+msgid "Date & Time"
+msgstr ""
+
+#: inc/Database/Custom_Metabox/Directory_Type.php:105
+msgid "Never Expire"
+msgstr ""
+
+#: inc/Database/Custom_Metabox/Directory_Type.php:112
+msgid "Jan"
+msgstr ""
+
+#: inc/Database/Custom_Metabox/Directory_Type.php:114
+msgid "Feb"
+msgstr ""
+
+#: inc/Database/Custom_Metabox/Directory_Type.php:116
+msgid "Mar"
+msgstr ""
+
+#: inc/Database/Custom_Metabox/Directory_Type.php:118
+msgid "Apr"
+msgstr ""
+
+#: inc/Database/Custom_Metabox/Directory_Type.php:120
+msgid "May"
+msgstr ""
+
+#: inc/Database/Custom_Metabox/Directory_Type.php:122
+msgid "Jun"
+msgstr ""
+
+#: inc/Database/Custom_Metabox/Directory_Type.php:124
+msgid "Jul"
+msgstr ""
+
+#: inc/Database/Custom_Metabox/Directory_Type.php:126
+msgid "Aug"
+msgstr ""
+
+#: inc/Database/Custom_Metabox/Directory_Type.php:128
+msgid "Sep"
+msgstr ""
+
+#: inc/Database/Custom_Metabox/Directory_Type.php:130
+msgid "Oct"
+msgstr ""
+
+#: inc/Database/Custom_Metabox/Directory_Type.php:132
+msgid "Nov"
+msgstr ""
+
+#: inc/Database/Custom_Metabox/Directory_Type.php:134
+msgid "Dec"
+msgstr ""
+
+#: inc/Database/Custom_Metabox/Directory_Type.php:229
+#: inc/Database/Custom_Metabox/Directory_Type_Frontend.php:306
+#: inc/Database/Custom_Posts/Directory.php:77
+msgid "Directory"
+msgstr ""
+
+#: inc/Database/Custom_Metabox/Directory_Type.php:275
+#: inc/Database/Custom_Metabox/Directory_Type.php:357
+#: inc/Database/Custom_Metabox/Directory_Type_Frontend.php:352
+#: inc/Database/Custom_Metabox/Directory_Type_Frontend.php:433
+#: templates/listing-add/listing-form.php:50
+msgid "Section"
+msgstr ""
+
+#: inc/Database/Custom_Metabox/Directory_Type.php:370
+msgid "Hide heading in slingle listing page"
+msgstr ""
+
+#: inc/Database/Custom_Posts/Directory.php:36
+#: templates/archive/author-info.php:51
+#: templates/content-agents.php:127
+#: templates/content-taxonomy-locations.php:82
+#: templates/content-taxonomy.php:83
+msgid "Listing"
+msgstr ""
+
+#: inc/Database/Custom_Posts/Directory.php:45
+msgid "directory"
+msgstr ""
+
+#: inc/Database/Custom_Posts/Directory.php:49
+msgid "Listings"
+msgstr ""
+
+#: inc/Database/Custom_Posts/Directory.php:75
+#: inc/Database/Custom_Widgets/All_Widgets/Categories.php:187
+#: inc/Database/Custom_Widgets/All_Widgets/Locations.php:188
+#: inc/Database/Custom_Widgets/All_Widgets/Tags.php:120
+#: templates/global/widgets/contact-author.php:54
+#: templates/single-listing-reviews.php:135
+msgid "Name"
+msgstr ""
+
+#: inc/Database/Custom_Posts/Directory.php:76
+msgid "Preview Image"
+msgstr ""
+
+#: inc/Database/Custom_Posts/Directory.php:78
+#: inc/Database/Custom_Taxonomy/Locations.php:47
+#: templates/fields-template/general.php:111
+#: templates/fields-template/general.php:213
+msgid "Location"
+msgstr ""
+
+#: inc/Database/Custom_Posts/Directory.php:79
+#: inc/Database/Custom_Taxonomy/Categories.php:56
+msgid "Categories"
+msgstr ""
+
+#: inc/Database/Custom_Posts/Directory.php:80
+msgid "Status"
+msgstr ""
+
+#: inc/Database/Custom_Posts/Directory.php:81
+#: inc/Database/Custom_Posts/Directory.php:93
+msgid "Author"
+msgstr ""
+
+#: inc/Database/Custom_Posts/Directory.php:82
+msgid "Create Date"
+msgstr ""
+
+#: inc/Database/Custom_Taxonomy/Categories.php:55
+#: templates/fields-template/general.php:60
+#: templates/fields-template/general.php:166
+msgid "Category"
+msgstr ""
+
+#: inc/Database/Custom_Taxonomy/Categories.php:77
+#: inc/Database/Custom_Taxonomy/Locations.php:69
+#: inc/Database/Traits/Taxonomy_Fields/Taxonomy_Upload.php:40
+#: inc/Database/Traits/Taxonomy_Fields/Taxonomy_Upload.php:79
+msgid "Image"
+msgstr ""
+
+#: inc/Database/Custom_Taxonomy/Categories.php:80
+#: inc/Database/Custom_Taxonomy/Categories.php:138
+#: inc/Database/Custom_Taxonomy/Locations.php:71
+#: inc/Database/Custom_Taxonomy/Locations.php:128
+#: inc/Database/Custom_Widgets/All_Widgets/Categories.php:137
+#: inc/Database/Custom_Widgets/All_Widgets/Listings_By.php:82
+#: inc/Database/Custom_Widgets/All_Widgets/Locations.php:138
+#: inc/Database/Custom_Widgets/All_Widgets/Populer_Listings.php:82
+#: inc/Database/Traits/Taxonomy_Fields/Taxonomy_Listing_Type.php:50
+#: inc/Database/Traits/Taxonomy_Fields/Taxonomy_Listing_Type.php:113
+msgid "Directory Type"
+msgstr ""
+
+#: inc/Database/Custom_Taxonomy/ListingTypes.php:30
+msgid "Listing Type"
+msgstr ""
+
+#: inc/Database/Custom_Taxonomy/ListingTypes.php:31
+msgid "Listing Types"
+msgstr ""
+
+#: inc/Database/Custom_Taxonomy/Locations.php:48
+msgid "Locations"
+msgstr ""
+
+#: inc/Database/Custom_Taxonomy/Tags.php:33
+msgid "Tag"
+msgstr ""
+
+#: inc/Database/Custom_Taxonomy/Tags.php:34
+#: templates/global/widgets/advanced-sidebar-filter.php:174
+#: templates/grid/advanced-top-filter.php:209
+msgid "Tags"
+msgstr ""
+
+#: inc/Database/Custom_Widgets/All_Widgets/Advanced_Sidebar_Filter.php:25
+msgid "AD : Advanced Sidebar Filter"
+msgstr ""
+
+#: inc/Database/Custom_Widgets/All_Widgets/Advanced_Sidebar_Filter.php:26
+msgid "You can show a advanced listing filter by this widget."
+msgstr ""
+
+#: inc/Database/Custom_Widgets/All_Widgets/Advanced_Sidebar_Filter.php:61
+#: inc/Database/Custom_Widgets/All_Widgets/Categories.php:129
+#: inc/Database/Custom_Widgets/All_Widgets/Connect_Agent.php:61
+#: inc/Database/Custom_Widgets/All_Widgets/Listings_By.php:74
+#: inc/Database/Custom_Widgets/All_Widgets/Locations.php:130
+#: inc/Database/Custom_Widgets/All_Widgets/Populer_Listings.php:74
+#: inc/Database/Custom_Widgets/All_Widgets/Related_Listings.php:74
+#: inc/Database/Custom_Widgets/All_Widgets/Tags.php:108
+msgid "Title:"
+msgstr ""
+
+#: inc/Database/Custom_Widgets/All_Widgets/Advanced_Sidebar_Filter.php:65
+msgid "All listing Page Url (Required) :"
+msgstr ""
+
+#: inc/Database/Custom_Widgets/All_Widgets/Categories.php:35
+msgid "AD : Categories"
+msgstr ""
+
+#: inc/Database/Custom_Widgets/All_Widgets/Categories.php:36
+msgid "You can display listings categories."
+msgstr ""
+
+#: inc/Database/Custom_Widgets/All_Widgets/Categories.php:140
+#: inc/Database/Custom_Widgets/All_Widgets/Listings_By.php:85
+#: inc/Database/Custom_Widgets/All_Widgets/Locations.php:141
+#: inc/Database/Custom_Widgets/All_Widgets/Populer_Listings.php:85
+#: templates/content-taxonomy-locations.php:50
+#: templates/content-taxonomy.php:51
+#: templates/grid/header-top-bar.php:50
+msgid "All"
+msgstr ""
+
+#: inc/Database/Custom_Widgets/All_Widgets/Categories.php:157
+#: inc/Database/Custom_Widgets/All_Widgets/Listings_By.php:102
+#: inc/Database/Custom_Widgets/All_Widgets/Locations.php:158
+#: inc/Database/Custom_Widgets/All_Widgets/Populer_Listings.php:102
+#: inc/Database/Custom_Widgets/All_Widgets/Related_Listings.php:79
+msgid "Related - view page directory"
+msgstr ""
+
+#: inc/Database/Custom_Widgets/All_Widgets/Categories.php:160
+#: inc/Database/Custom_Widgets/All_Widgets/Categories.php:172
+#: inc/Database/Custom_Widgets/All_Widgets/Listings_By.php:105
+#: inc/Database/Custom_Widgets/All_Widgets/Locations.php:161
+#: inc/Database/Custom_Widgets/All_Widgets/Locations.php:173
+#: inc/Database/Custom_Widgets/All_Widgets/Populer_Listings.php:105
+#: inc/Database/Custom_Widgets/All_Widgets/Related_Listings.php:85
+msgid "No"
+msgstr ""
+
+#: inc/Database/Custom_Widgets/All_Widgets/Categories.php:163
+#: inc/Database/Custom_Widgets/All_Widgets/Categories.php:175
+#: inc/Database/Custom_Widgets/All_Widgets/Listings_By.php:108
+#: inc/Database/Custom_Widgets/All_Widgets/Locations.php:164
+#: inc/Database/Custom_Widgets/All_Widgets/Locations.php:176
+#: inc/Database/Custom_Widgets/All_Widgets/Populer_Listings.php:108
+#: inc/Database/Custom_Widgets/All_Widgets/Related_Listings.php:82
+msgid "Yes"
+msgstr ""
+
+#: inc/Database/Custom_Widgets/All_Widgets/Categories.php:169
+#: inc/Database/Custom_Widgets/All_Widgets/Locations.php:170
+msgid "Display child"
+msgstr ""
+
+#: inc/Database/Custom_Widgets/All_Widgets/Categories.php:181
+#: inc/Database/Custom_Widgets/All_Widgets/Listings_By.php:114
+#: inc/Database/Custom_Widgets/All_Widgets/Locations.php:182
+#: inc/Database/Custom_Widgets/All_Widgets/Tags.php:114
+msgid "Order By"
+msgstr ""
+
+#: inc/Database/Custom_Widgets/All_Widgets/Categories.php:188
+#: inc/Database/Custom_Widgets/All_Widgets/Locations.php:189
+#: inc/Database/Custom_Widgets/All_Widgets/Tags.php:121
+#: build/directorybuilder/directorybuilder.js:1
+#: src/dashboard/components/dashboard/DirectoryType.jsx:36
+msgid "Slug"
+msgstr ""
+
+#: inc/Database/Custom_Widgets/All_Widgets/Categories.php:189
+#: inc/Database/Custom_Widgets/All_Widgets/Locations.php:190
+#: inc/Database/Custom_Widgets/All_Widgets/Tags.php:122
+msgid "Term Group"
+msgstr ""
+
+#: inc/Database/Custom_Widgets/All_Widgets/Categories.php:190
+#: inc/Database/Custom_Widgets/All_Widgets/Locations.php:191
+#: inc/Database/Custom_Widgets/All_Widgets/Tags.php:123
+msgid "Term id"
+msgstr ""
+
+#: inc/Database/Custom_Widgets/All_Widgets/Categories.php:191
+#: inc/Database/Custom_Widgets/All_Widgets/Locations.php:192
+#: inc/Database/Custom_Widgets/All_Widgets/Tags.php:124
+#: templates/fields-template/general.php:38
+msgid "Description"
+msgstr ""
+
+#: inc/Database/Custom_Widgets/All_Widgets/Categories.php:192
+#: inc/Database/Custom_Widgets/All_Widgets/Locations.php:193
+#: inc/Database/Custom_Widgets/All_Widgets/Tags.php:125
+msgid "Parent"
+msgstr ""
+
+#: inc/Database/Custom_Widgets/All_Widgets/Categories.php:206
+#: inc/Database/Custom_Widgets/All_Widgets/Locations.php:207
+#: inc/Database/Custom_Widgets/All_Widgets/Tags.php:139
+msgid "Order"
+msgstr ""
+
+#: inc/Database/Custom_Widgets/All_Widgets/Categories.php:209
+#: inc/Database/Custom_Widgets/All_Widgets/Locations.php:210
+#: inc/Database/Custom_Widgets/All_Widgets/Tags.php:142
+msgid "Descending"
+msgstr ""
+
+#: inc/Database/Custom_Widgets/All_Widgets/Categories.php:212
+#: inc/Database/Custom_Widgets/All_Widgets/Locations.php:213
+#: inc/Database/Custom_Widgets/All_Widgets/Tags.php:145
+msgid "Ascending"
+msgstr ""
+
+#: inc/Database/Custom_Widgets/All_Widgets/Categories.php:219
+#: inc/Database/Custom_Widgets/All_Widgets/Listings_By.php:140
+#: inc/Database/Custom_Widgets/All_Widgets/Locations.php:220
+#: inc/Database/Custom_Widgets/All_Widgets/Populer_Listings.php:136
+#: inc/Database/Custom_Widgets/All_Widgets/Related_Listings.php:121
+#: inc/Database/Custom_Widgets/All_Widgets/Tags.php:152
+msgid "Number of listings"
+msgstr ""
+
+#: inc/Database/Custom_Widgets/All_Widgets/Connect_Agent.php:26
+msgid "AD : Connect Listing Owner"
+msgstr ""
+
+#: inc/Database/Custom_Widgets/All_Widgets/Connect_Agent.php:27
+msgid "You can show a form to contact the listing owners by this widget."
+msgstr ""
+
+#: inc/Database/Custom_Widgets/All_Widgets/Listings_By.php:32
+msgid "AD : Listing By"
+msgstr ""
+
+#: inc/Database/Custom_Widgets/All_Widgets/Listings_By.php:33
+msgid "You can display listings by Select options."
+msgstr ""
+
+#: inc/Database/Custom_Widgets/All_Widgets/Listings_By.php:120
+#: inc/Database/Custom_Widgets/All_Widgets/Related_Listings.php:98
+#: templates/grid/header-top-bar.php:105
+msgid "Latest listings"
+msgstr ""
+
+#: inc/Database/Custom_Widgets/All_Widgets/Listings_By.php:121
+#: inc/Database/Custom_Widgets/All_Widgets/Related_Listings.php:99
+#: templates/grid/header-top-bar.php:106
+msgid "Oldest listings"
+msgstr ""
+
+#: inc/Database/Custom_Widgets/All_Widgets/Listings_By.php:122
+#: inc/Database/Custom_Widgets/All_Widgets/Related_Listings.php:100
+#: templates/grid/header-top-bar.php:110
+msgid "A to Z (title)"
+msgstr ""
+
+#: inc/Database/Custom_Widgets/All_Widgets/Listings_By.php:123
+#: inc/Database/Custom_Widgets/All_Widgets/Related_Listings.php:101
+#: templates/grid/header-top-bar.php:111
+msgid "Z to A (title)"
+msgstr ""
+
+#: inc/Database/Custom_Widgets/All_Widgets/Listings_By.php:124
+#: inc/Database/Custom_Widgets/All_Widgets/Related_Listings.php:102
+#: templates/grid/header-top-bar.php:112
+msgid "Price (low to high)"
+msgstr ""
+
+#: inc/Database/Custom_Widgets/All_Widgets/Listings_By.php:125
+#: inc/Database/Custom_Widgets/All_Widgets/Related_Listings.php:103
+#: templates/grid/header-top-bar.php:113
+msgid "Price (high to low)"
+msgstr ""
+
+#: inc/Database/Custom_Widgets/All_Widgets/Listings_By.php:126
+#: inc/Database/Custom_Widgets/All_Widgets/Related_Listings.php:104
+#: templates/grid/header-top-bar.php:114
+msgid "Random listings"
+msgstr ""
+
+#: inc/Database/Custom_Widgets/All_Widgets/Locations.php:35
+msgid "AD : Locations"
+msgstr ""
+
+#: inc/Database/Custom_Widgets/All_Widgets/Locations.php:36
+msgid "You can display listings locations."
+msgstr ""
+
+#: inc/Database/Custom_Widgets/All_Widgets/Populer_Listings.php:32
+msgid "AD : Populer Listings"
+msgstr ""
+
+#: inc/Database/Custom_Widgets/All_Widgets/Populer_Listings.php:33
+msgid "You can display populer listings by Select options."
+msgstr ""
+
+#: inc/Database/Custom_Widgets/All_Widgets/Populer_Listings.php:114
+#: inc/Database/Custom_Widgets/All_Widgets/Related_Listings.php:92
+msgid "Order By (Popularity)"
+msgstr ""
+
+#: inc/Database/Custom_Widgets/All_Widgets/Populer_Listings.php:120
+msgid "Popular (by views)"
+msgstr ""
+
+#: inc/Database/Custom_Widgets/All_Widgets/Populer_Listings.php:121
+msgid "Popular (by ratings)"
+msgstr ""
+
+#: inc/Database/Custom_Widgets/All_Widgets/Populer_Listings.php:122
+msgid "Popular (by review count)"
+msgstr ""
+
+#: inc/Database/Custom_Widgets/All_Widgets/Related_Listings.php:32
+msgid "AD : Related Listings"
+msgstr ""
+
+#: inc/Database/Custom_Widgets/All_Widgets/Related_Listings.php:33
+msgid "You can display Related Listings by Select options."
+msgstr ""
+
+#: inc/Database/Custom_Widgets/All_Widgets/Related_Listings.php:105
+#: templates/grid/header-top-bar.php:107
+msgid "Popular listings"
+msgstr ""
+
+#: inc/Database/Custom_Widgets/All_Widgets/Related_Listings.php:106
+#: templates/grid/header-top-bar.php:108
+msgid "5 to 1 (star rating)"
+msgstr ""
+
+#: inc/Database/Custom_Widgets/All_Widgets/Related_Listings.php:107
+#: templates/grid/header-top-bar.php:109
+msgid "Review Count"
+msgstr ""
+
+#: inc/Database/Custom_Widgets/All_Widgets/Tags.php:35
+msgid "AD : Tags"
+msgstr ""
+
+#: inc/Database/Custom_Widgets/All_Widgets/Tags.php:36
+msgid "You can display listings tags."
+msgstr ""
+
+#: inc/Database/Custom_Widgets/Register_Widgets.php:33
+msgid "AD - Single Listing Sidebar"
+msgstr ""
+
+#: inc/Database/Custom_Widgets/Register_Widgets.php:35
+msgid "Add widgets for the sidebar on single listing page."
+msgstr ""
+
+#: inc/Database/Custom_Widgets/Register_Widgets.php:42
+msgid "AD - Archive Listings Sidebar"
+msgstr ""
+
+#: inc/Database/Custom_Widgets/Register_Widgets.php:44
+msgid "Add widgets for the sidebar on archive listings page."
+msgstr ""
+
+#: inc/Database/Traits/Metabox_Fields/fields-template/custom-fields/checkbox.php:6
+#: templates/fields-template/custom-fields/checkbox.php:8
+msgid "Checkbox"
+msgstr ""
+
+#: inc/Database/Traits/Metabox_Fields/fields-template/custom-fields/date.php:6
+msgid "Date"
+msgstr ""
+
+#: inc/Database/Traits/Metabox_Fields/fields-template/custom-fields/field_images.php:6
+#: build/directorybuilder/directorybuilder.js:1
+#: src/dashboard/components/builder/modals/FileModal.jsx:136
+msgid "Images"
+msgstr ""
+
+#: inc/Database/Traits/Metabox_Fields/fields-template/custom-fields/number.php:6
+msgid "Number"
+msgstr ""
+
+#: inc/Database/Traits/Metabox_Fields/fields-template/custom-fields/radio.php:6
+#: templates/fields-template/custom-fields/radio.php:6
+msgid "Radio"
+msgstr ""
+
+#: inc/Database/Traits/Metabox_Fields/fields-template/custom-fields/select.php:6
+#: templates/fields-template/custom-fields/select.php:6
+msgid "Select"
+msgstr ""
+
+#: inc/Database/Traits/Metabox_Fields/fields-template/custom-fields/text.php:6
+msgid "Text"
+msgstr ""
+
+#: inc/Database/Traits/Metabox_Fields/fields-template/custom-fields/textarea.php:6
+msgid "Textarea"
+msgstr ""
+
+#: inc/Database/Traits/Metabox_Fields/fields-template/custom-fields/textarea.php:28
+#: templates/fields-template/custom-fields/textarea.php:34
+msgid "Each new line will be printed with list item"
+msgstr ""
+
+#: inc/Database/Traits/Metabox_Fields/fields-template/custom-fields/time.php:6
+msgid "Time"
+msgstr ""
+
+#: inc/Database/Traits/Metabox_Fields/fields-template/custom-fields/url.php:6
+msgid "Url"
+msgstr ""
+
+#: inc/Database/Traits/Metabox_Fields/fields-template/preset-fields/businesshour.php:29
+msgid "Business Hours"
+msgstr ""
+
+#: inc/Database/Traits/Metabox_Fields/fields-template/preset-fields/businesshour.php:34
+msgid "Open 24 hours 7 days"
+msgstr ""
+
+#: inc/Database/Traits/Metabox_Fields/fields-template/preset-fields/businesshour.php:38
+msgid "Hide business hours"
+msgstr ""
+
+#: inc/Database/Traits/Metabox_Fields/fields-template/preset-fields/businesshour.php:42
+msgid "Open for Selected Hours"
+msgstr ""
+
+#: inc/Database/Traits/Metabox_Fields/fields-template/preset-fields/businesshour.php:74
+#: inc/Database/Traits/Metabox_Fields/fields-template/preset-fields/businesshour.php:172
+msgid "Open 24 hours"
+msgstr ""
+
+#: inc/Database/Traits/Metabox_Fields/fields-template/preset-fields/email.php:6
+#: inc/Frontend/Ajax.php:825
+#: templates/global/widgets/contact-author.php:57
+#: templates/single-listing-reviews.php:152
+#: templates/users/registration.php:30
+msgid "Email"
+msgstr ""
+
+#: inc/Database/Traits/Metabox_Fields/fields-template/preset-fields/fax.php:6
+msgid "Fax"
+msgstr ""
+
+#: inc/Database/Traits/Metabox_Fields/fields-template/preset-fields/map.php:6
+#: inc/Init.php:141
+#: inc/Init.php:142
+msgid "Map"
+msgstr ""
+
+#: inc/Database/Traits/Metabox_Fields/fields-template/preset-fields/map.php:34
+#: templates/fields-template/preset-fields/map.php:43
+msgid "Map Generate"
+msgstr ""
+
+#: inc/Database/Traits/Metabox_Fields/fields-template/preset-fields/map.php:42
+#: templates/fields-template/preset-fields/map.php:50
+msgid "Hide Map"
+msgstr ""
+
+#: inc/Database/Traits/Metabox_Fields/fields-template/preset-fields/pricing.php:6
+msgid "Price"
+msgstr ""
+
+#: inc/Database/Traits/Metabox_Fields/fields-template/preset-fields/pricing.php:11
+#: inc/Database/Traits/Metabox_Fields/fields-template/preset-fields/pricing.php:72
+#: templates/fields-template/preset-fields/pricing.php:77
+msgid "Select Price Range"
+msgstr ""
+
+#: inc/Database/Traits/Metabox_Fields/fields-template/preset-fields/pricing.php:31
+#: templates/fields-template/preset-fields/pricing.php:40
+msgid "Price [USD]"
+msgstr ""
+
+#: inc/Database/Traits/Metabox_Fields/fields-template/preset-fields/pricing.php:37
+#: templates/fields-template/preset-fields/pricing.php:46
+#: build/directorybuilder/directorybuilder.js:1
+#: src/dashboard/components/builder/modals/PricingModal.jsx:143
+msgid "Price Range"
+msgstr ""
+
+#: inc/Database/Traits/Metabox_Fields/fields-template/preset-fields/pricing.php:48
+#: templates/fields-template/preset-fields/pricing.php:56
+msgid "Price amount"
+msgstr ""
+
+#: inc/Database/Traits/Metabox_Fields/fields-template/preset-fields/pricing.php:49
+#: templates/fields-template/preset-fields/pricing.php:58
+msgid "Period time"
+msgstr ""
+
+#: inc/Database/Traits/Metabox_Fields/fields-template/preset-fields/pricing.php:60
+#: templates/fields-template/preset-fields/pricing.php:68
+msgid "Ultra High ($$$$)"
+msgstr ""
+
+#: inc/Database/Traits/Metabox_Fields/fields-template/preset-fields/pricing.php:61
+#: templates/fields-template/preset-fields/pricing.php:69
+msgid "Expensive ($$$)"
+msgstr ""
+
+#: inc/Database/Traits/Metabox_Fields/fields-template/preset-fields/pricing.php:62
+#: templates/fields-template/preset-fields/pricing.php:70
+msgid "Moderate ($$)"
+msgstr ""
+
+#: inc/Database/Traits/Metabox_Fields/fields-template/preset-fields/pricing.php:63
+#: templates/fields-template/preset-fields/pricing.php:71
+msgid "Cheap ($)"
+msgstr ""
+
+#: inc/Database/Traits/Metabox_Fields/fields-template/preset-fields/tagline.php:6
+msgid "Tagline"
+msgstr ""
+
+#: inc/Database/Traits/Metabox_Fields/fields-template/preset-fields/video.php:6
+#: inc/Init.php:155
+#: inc/Init.php:156
+#: build/directorybuilder/directorybuilder.js:1
+#: src/dashboard/components/builder/modals/FileModal.jsx:145
+msgid "Video"
+msgstr ""
+
+#: inc/Database/Traits/Metabox_Fields/fields-template/preset-fields/view_count.php:6
+#: inc/Init.php:91
+#: inc/Init.php:92
+msgid "View Count"
+msgstr ""
+
+#: inc/Database/Traits/Metabox_Fields/fields-template/preset-fields/view_count.php:22
+msgid "Leave this field blank to display a real view count in a single listing meta."
+msgstr ""
+
+#: inc/Database/Traits/Metabox_Fields/fields-template/preset-fields/website.php:6
+#: inc/Init.php:120
+#: inc/Init.php:121
+msgid "Website"
+msgstr ""
+
+#: inc/Database/Traits/Metabox_Fields/fields-template/preset-fields/zip.php:6
+msgid "Zip/Post Code"
+msgstr ""
+
+#: inc/Database/Traits/Taxonomy_Fields/Taxonomy_Icon.php:38
+#: inc/Database/Traits/Taxonomy_Fields/Taxonomy_Icon.php:83
+msgid "Category Icon"
+msgstr ""
+
+#: inc/Database/Traits/Taxonomy_Fields/Taxonomy_Icon.php:46
+#: inc/Database/Traits/Taxonomy_Fields/Taxonomy_Icon.php:101
+#: inc/Database/Traits/Taxonomy_Fields/Taxonomy_Icon.php:176
+msgid "Click to select icon"
+msgstr ""
+
+#: inc/Database/Traits/Taxonomy_Fields/Taxonomy_Icon.php:50
+#: inc/Database/Traits/Taxonomy_Fields/Taxonomy_Icon.php:108
+msgid "Remove"
+msgstr ""
+
+#: inc/Database/Traits/Taxonomy_Fields/Taxonomy_Upload.php:45
+msgid "Add Image"
+msgstr ""
+
+#: inc/Database/Traits/Taxonomy_Fields/Taxonomy_Upload.php:46
+#: inc/Database/Traits/Taxonomy_Fields/Taxonomy_Upload.php:98
+msgid "Remove Image"
+msgstr ""
+
+#: inc/Database/Traits/Taxonomy_Fields/Taxonomy_Upload.php:96
+msgid "Update Image"
+msgstr ""
+
+#: inc/Database/Traits/Taxonomy_Fields/Taxonomy_Upload.php:158
+msgid "Use This Image"
+msgstr ""
+
+#: inc/Frontend/Ajax.php:616
+msgid "Regular "
+msgstr ""
+
+#: inc/Frontend/Ajax.php:619
+msgid "Featured "
+msgstr ""
+
+#: inc/Frontend/Ajax.php:626
+msgid "Never "
+msgstr ""
+
+#: inc/Frontend/Ajax.php:690
+msgid "Comment Submission Failure"
+msgstr ""
+
+#: inc/Frontend/Ajax.php:719
+#: templates/archive/author-info.php:23
+#: templates/content-agents.php:78
+#: templates/single-listing-reviews.php:40
+msgid "Review"
+msgstr ""
+
+#: inc/Frontend/Ajax.php:819
+msgid "For listing"
+msgstr ""
+
+#: inc/Frontend/Ajax.php:823
+msgid "Sender Name"
+msgstr ""
+
+#: inc/Frontend/Ajax.php:829
+msgid "Message"
+msgstr ""
+
+#: inc/Frontend/Shortcode.php:110
+msgid "Sign In"
+msgstr ""
+
+#: inc/Frontend/Shortcode.php:113
+msgid "Sign Up"
+msgstr ""
+
+#: inc/Frontend/Shortcode.php:506
+msgid "Share Now"
+msgstr ""
+
+#: inc/Frontend/Shortcode.php:508
+msgid "Facebook"
+msgstr ""
+
+#: inc/Frontend/Shortcode.php:509
+msgid "Twitter"
+msgstr ""
+
+#: inc/Frontend/Shortcode.php:510
+msgid "Pinterest"
+msgstr ""
+
+#: inc/Frontend/Traits/Customize/Listing_Review.php:58
+msgid "Directory Listing Ratings"
+msgstr ""
+
+#: inc/Frontend/Traits/Customize/Listing_Review.php:81
+#: inc/Frontend/Traits/Customize/Listing_Review.php:211
+msgid "Ratings"
+msgstr ""
+
+#: inc/Frontend/Traits/Customize/Listing_Review.php:86
+msgid "You can update ratings"
+msgstr ""
+
+#: inc/Frontend/Traits/Customize/Listing_Review.php:159
+msgid "Error: You did not add a rating. Hit the Back button on your Web browser and resubmit your comment with a rating."
+msgstr ""
+
+#: inc/functions/template-functions.php:147
+msgid "Related Listing"
+msgstr ""
+
+#: inc/Helpers.php:233
+msgid "$$$$"
+msgstr ""
+
+#: inc/Helpers.php:234
+msgid "$$$"
+msgstr ""
+
+#: inc/Helpers.php:235
+msgid "$$"
+msgstr ""
+
+#: inc/Helpers.php:236
+msgid "$"
+msgstr ""
+
+#: inc/Init.php:77
+#: templates/fields-template/general.php:27
+msgid "General Section"
+msgstr ""
+
+#: inc/Init.php:83
+#: inc/Init.php:84
+msgid "Pricing"
+msgstr ""
+
+#: inc/Init.php:85
+msgid "Pricing placeholder"
+msgstr ""
+
+#: inc/Init.php:93
+msgid "view count placeholder"
+msgstr ""
+
+#: inc/Init.php:99
+msgid "Contact Section"
+msgstr ""
+
+#: inc/Init.php:107
+msgid "Enter phone number"
+msgstr ""
+
+#: inc/Init.php:113
+#: inc/Init.php:114
+msgid "Zip Code"
+msgstr ""
+
+#: inc/Init.php:115
+msgid "Enter zip code"
+msgstr ""
+
+#: inc/Init.php:122
+msgid "Enter website url"
+msgstr ""
+
+#: inc/Init.php:127
+msgid "Map and Address"
+msgstr ""
+
+#: inc/Init.php:135
+msgid "Enter address"
+msgstr ""
+
+#: inc/Init.php:143
+msgid "Enter map"
+msgstr ""
+
+#: inc/Init.php:149
+msgid "Images & Video"
+msgstr ""
+
+#: inc/Init.php:157
+msgid "Enter video url"
+msgstr ""
+
+#: inc/Init.php:234
+msgid "Login - Registration"
+msgstr ""
+
+#: inc/Init.php:241
+msgid "All Agents"
+msgstr ""
+
+#: templates/archive/author-info.php:57
+msgid "Member Since"
+msgstr ""
+
+#: templates/archive/author-info.php:118
+msgid "Find Me"
+msgstr ""
+
+#: templates/archive/author-info.php:137
+msgid "About Agents"
+msgstr ""
+
+#: templates/content-none.php:18
+msgid "Oops! Content Type not found..."
+msgstr ""
+
+#: templates/fields-template/general.php:32
+#: build/directorybuilder/directorybuilder.js:1
+#: src/dashboard/components/dashboard/DirectoryType.jsx:35
+msgid "Title"
+msgstr ""
+
+#: templates/fields-template/media-images.php:41
+#: templates/fields-template/media-images.php:133
+msgid "Media"
+msgstr ""
+
+#: templates/fields-template/media-images.php:50
+#: templates/fields-template/media-images.php:140
+msgid "Feature Image"
+msgstr ""
+
+#: templates/fields-template/media-images.php:89
+#: templates/fields-template/media-images.php:176
+msgid "Gallery Images"
+msgstr ""
+
+#: templates/fields-template/preset-fields/businesshour.php:42
+msgid "Open 24 Hour"
+msgstr ""
+
+#: templates/fields-template/preset-fields/businesshour.php:46
+msgid "Hide Business Hour"
+msgstr ""
+
+#: templates/fields-template/preset-fields/businesshour.php:50
+msgid "Open For Specific Date"
+msgstr ""
+
+#: templates/fields-template/preset-fields/businesshour.php:99
+#: templates/fields-template/preset-fields/businesshour.php:170
+msgid "Open"
+msgstr ""
+
+#: templates/fields-template/preset-fields/businesshour.php:119
+#: templates/fields-template/preset-fields/businesshour.php:188
+msgid "Close"
+msgstr ""
+
+#: templates/fields-template/preset-fields/pricing.php:12
+msgid "Select price"
+msgstr ""
+
+#: templates/global/expire-notice.php:34
+msgid "Expired"
+msgstr ""
+
+#: templates/global/search-bar.php:24
+#: templates/global/widgets/advanced-sidebar-filter.php:41
+#: templates/grid/advanced-top-filter.php:48
+#: templates/grid/header-top-bar.php:26
+msgid "Type your Keyword..."
+msgstr ""
+
+#: templates/global/search-bar.php:31
+#: templates/global/widgets/advanced-sidebar-filter.php:50
+#: templates/grid/advanced-top-filter.php:55
+msgid "Select Category"
+msgstr ""
+
+#: templates/global/search-bar.php:47
+#: templates/global/widgets/advanced-sidebar-filter.php:66
+#: templates/grid/advanced-top-filter.php:71
+msgid "Select Location"
+msgstr ""
+
+#: templates/global/search-bar.php:64
+#: templates/global/widgets/advanced-sidebar-filter.php:213
+#: templates/grid/advanced-top-filter.php:97
+msgid "Find Listing"
+msgstr ""
+
+#: templates/global/widgets/advanced-sidebar-filter.php:80
+#: templates/grid/advanced-top-filter.php:117
+msgid "Pricing Range"
+msgstr ""
+
+#: templates/global/widgets/advanced-sidebar-filter.php:85
+#: templates/grid/advanced-top-filter.php:122
+msgid "Min"
+msgstr ""
+
+#: templates/global/widgets/advanced-sidebar-filter.php:88
+#: templates/grid/advanced-top-filter.php:125
+msgid "Max"
+msgstr ""
+
+#: templates/global/widgets/advanced-sidebar-filter.php:97
+#: templates/grid/advanced-top-filter.php:135
+msgid "Rating Up / Equel"
+msgstr ""
+
+#: templates/global/widgets/advanced-sidebar-filter.php:193
+#: templates/grid/advanced-top-filter.php:228
+msgid "See More"
+msgstr ""
+
+#: templates/global/widgets/advanced-sidebar-filter.php:207
+msgid "Reset Search"
+msgstr ""
+
+#: templates/global/widgets/contact-author.php:64
+msgid "Type message..."
+msgstr ""
+
+#: templates/global/widgets/contact-author.php:68
+msgid "Submit Message"
+msgstr ""
+
+#: templates/global/widgets/listings-all.php:212
+msgid "View"
+msgstr ""
+
+#: templates/grid/advanced-top-filter.php:42
+#: templates/grid/header-top-bar.php:33
+msgid "Search"
+msgstr ""
+
+#: templates/grid/advanced-top-filter.php:90
+msgid "Filter"
+msgstr ""
+
+#: templates/grid/header-top-bar.php:102
+msgid "Sort By"
+msgstr ""
+
+#: templates/listing-add/plan-select.php:18
+msgid "Select package"
+msgstr ""
+
+#: templates/single-listing-reviews.php:55
+#: templates/single-listing-reviews.php:178
+msgid "Write a Review"
+msgstr ""
+
+#: templates/single-listing-reviews.php:101
+msgid "See More Reviews"
+msgstr ""
+
+#: templates/single-listing-reviews.php:116
+msgid "Write Review"
+msgstr ""
+
+#: templates/single-listing-reviews.php:121
+msgid "Rating"
+msgstr ""
+
+#: templates/single-listing-reviews.php:145
+msgid "Your name..."
+msgstr ""
+
+#: templates/single-listing-reviews.php:162
+msgid "Your email..."
+msgstr ""
+
+#: templates/single-listing-reviews.php:180
+msgid "Submit Review"
+msgstr ""
+
+#: templates/single-listing-reviews.php:184
+msgid "Your Review"
+msgstr ""
+
+#: templates/single-listing-reviews.php:186
+msgid "Type review..."
+msgstr ""
+
+#: templates/single-listing-reviews.php:187
+msgid "Maximum character must be 5000"
+msgstr ""
+
+#: templates/single-listing/fileds-elements/video.php:53
+msgid "Close | ✕"
+msgstr ""
+
+#: templates/single-listing/review.php:35
+msgid "Your Review is awaiting moderation."
+msgstr ""
+
+#: templates/single-listing/slider.php:41
+msgid "See all "
+msgstr ""
+
+#: templates/users/login.php:19
+msgid "Username"
+msgstr ""
+
+#: templates/users/login.php:33
+#: templates/users/registration.php:45
+msgid "Password"
+msgstr ""
+
+#: templates/users/login.php:46
+msgid "Keep me logged in"
+msgstr ""
+
+#: templates/users/registration.php:18
+msgid "Full Name"
+msgstr ""
+
+#: templates/users/registration.php:59
+msgid "Confirm Password"
+msgstr ""
+
+#: assets/admin/js/metabox.js:20
+msgid "Are you sure you want to delete this element?"
+msgstr ""
+
+#: assets/admin/js/metabox.js:312
+msgid "files selected"
+msgstr ""
+
+#: assets/admin/js/metabox.js:330
+msgid "or drag and drop files here"
+msgstr ""
+
+#: assets/frontend/js/single-script.js:143
+msgid "Please fill up all required "
+msgstr ""
+
+#: assets/frontend/js/single-script.js:145
+msgid " fields"
+msgstr ""
+
+#: assets/frontend/js/single-script.js:170
+#: assets/frontend/js/single-script.js:322
+msgid "Loading..."
+msgstr ""
+
+#: assets/frontend/js/single-script.js:189
+msgid "You have already write a review"
+msgstr ""
+
+#: assets/frontend/js/single-script.js:380
+msgid "Sending..."
+msgstr ""
+
+#: assets/frontend/js/single-script.js:392
+msgid "Message send successfully done!"
+msgstr ""
+
+#: build/directorybuilder/directorybuilder.js:1
+#: src/dashboard/pages/NewSetting.jsx:39
+msgid "Same value already  exists"
+msgstr ""
+
+#: build/directorybuilder/directorybuilder.js:1
+#: src/dashboard/components/builder/modals/BadgesModal.jsx:103
+#: src/dashboard/components/builder/modals/CommonModal.jsx:93
+#: src/dashboard/components/builder/modals/FileModal.jsx:88
+#: src/dashboard/components/builder/modals/ImageModal.jsx:93
+#: src/dashboard/components/builder/modals/OptionModal.jsx:114
+#: src/dashboard/components/builder/modals/OptionModal.jsx:157
+#: src/dashboard/components/builder/modals/PricingModal.jsx:91
+msgid "Label"
+msgstr ""
+
+#: build/directorybuilder/directorybuilder.js:1
+#: src/dashboard/components/builder/modals/CommonModal.jsx:113
+#: src/dashboard/components/builder/modals/FileModal.jsx:108
+#: src/dashboard/components/builder/modals/ImageModal.jsx:113
+#: src/dashboard/components/builder/modals/OptionModal.jsx:134
+#: src/dashboard/components/builder/modals/PricingModal.jsx:111
+msgid "Placeholder"
+msgstr ""
+
+#: build/directorybuilder/directorybuilder.js:1
+#: src/dashboard/components/builder/modals/ImageModal.jsx:133
+msgid "Maximum Image Limit"
+msgstr ""
+
+#: build/directorybuilder/directorybuilder.js:1
+#: src/dashboard/components/builder/modals/ImageModal.jsx:152
+msgid "Maximum Upload Size Per Image"
+msgstr ""
+
+#: build/directorybuilder/directorybuilder.js:1
+#: src/dashboard/components/builder/modals/BadgesModal.jsx:139
+#: src/dashboard/components/builder/modals/CommonModal.jsx:131
+#: src/dashboard/components/builder/modals/FileModal.jsx:155
+#: src/dashboard/components/builder/modals/ImageModal.jsx:169
+#: src/dashboard/components/builder/modals/OptionModal.jsx:183
+#: src/dashboard/components/builder/modals/PricingModal.jsx:153
+msgid "Is Required"
+msgstr ""
+
+#: build/directorybuilder/directorybuilder.js:1
+#: src/dashboard/components/builder/modals/BadgesModal.jsx:162
+#: src/dashboard/components/builder/modals/CommonModal.jsx:154
+#: src/dashboard/components/builder/modals/FileModal.jsx:179
+#: src/dashboard/components/builder/modals/ImageModal.jsx:193
+#: src/dashboard/components/builder/modals/OptionModal.jsx:207
+#: src/dashboard/components/builder/modals/PricingModal.jsx:177
+msgid "Administrative Only"
+msgstr ""
+
+#: build/directorybuilder/directorybuilder.js:1
+#: src/dashboard/components/builder/modals/CommonModal.jsx:177
+#: src/dashboard/components/builder/modals/FileModal.jsx:202
+#: src/dashboard/components/builder/modals/ImageModal.jsx:216
+#: src/dashboard/components/builder/modals/OptionModal.jsx:230
+#: src/dashboard/components/builder/modals/PricingModal.jsx:200
+msgid "Show Label On Frontend"
+msgstr ""
+
+#: build/directorybuilder/directorybuilder.js:1
+#: src/dashboard/components/builder/modals/BadgesModal.jsx:192
+#: src/dashboard/components/builder/modals/CommonModal.jsx:210
+#: src/dashboard/components/builder/modals/FileModal.jsx:232
+#: src/dashboard/components/builder/modals/ImageModal.jsx:246
+#: src/dashboard/components/builder/modals/OptionModal.jsx:259
+#: src/dashboard/components/builder/modals/PricingModal.jsx:230
+#: src/dashboard/pages/DirectorySelect.jsx:168
+msgid "Create"
+msgstr ""
+
+#: build/directorybuilder/directorybuilder.js:1
+#: src/dashboard/components/builder/modals/BadgesModal.jsx:202
+#: src/dashboard/components/builder/modals/CommonModal.jsx:220
+#: src/dashboard/components/builder/modals/FileModal.jsx:242
+#: src/dashboard/components/builder/modals/ImageModal.jsx:256
+#: src/dashboard/components/builder/modals/OptionModal.jsx:269
+#: src/dashboard/components/builder/modals/PricingModal.jsx:240
+#: src/dashboard/pages/DirectoryBuilder.jsx:270
+msgid "Update"
+msgstr ""
+
+#: build/directorybuilder/directorybuilder.js:1
+#: src/dashboard/components/builder/modals/OptionModal.jsx:148
+msgid "Options"
+msgstr ""
+
+#: build/directorybuilder/directorybuilder.js:1
+#: src/dashboard/components/builder/modals/OptionModal.jsx:176
+msgid "Add Option"
+msgstr ""
+
+#: build/directorybuilder/directorybuilder.js:1
+#: src/dashboard/components/builder/modals/PricingModal.jsx:128
+msgid "Select Pricing Type"
+msgstr ""
+
+#: build/directorybuilder/directorybuilder.js:1
+#: src/dashboard/components/builder/modals/PricingModal.jsx:138
+msgid "Both"
+msgstr ""
+
+#: build/directorybuilder/directorybuilder.js:1
+#: src/dashboard/components/builder/modals/PricingModal.jsx:140
+msgid "Price Unit"
+msgstr ""
+
+#: build/directorybuilder/directorybuilder.js:1
+#: src/dashboard/components/builder/modals/FileModal.jsx:124
+msgid "File Type"
+msgstr ""
+
+#: build/directorybuilder/directorybuilder.js:1
+#: src/dashboard/components/builder/modals/FileModal.jsx:133
+msgid "All Types"
+msgstr ""
+
+#: build/directorybuilder/directorybuilder.js:1
+#: src/dashboard/components/builder/modals/FileModal.jsx:139
+msgid "Document Files"
+msgstr ""
+
+#: build/directorybuilder/directorybuilder.js:1
+#: src/dashboard/components/builder/modals/FileModal.jsx:142
+msgid "Pdf Document"
+msgstr ""
+
+#: build/directorybuilder/directorybuilder.js:1
+#: src/dashboard/components/builder/modals/BadgesModal.jsx:123
+msgid "Badges"
+msgstr ""
+
+#: build/directorybuilder/directorybuilder.js:1
+#: src/dashboard/components/builder/EmptyField.jsx:142
+msgid "Create your Listing Builder"
+msgstr ""
+
+#: build/directorybuilder/directorybuilder.js:1
+#: src/dashboard/pages/DirectoryBuilder.jsx:119
+msgid "Section Title"
+msgstr ""
+
+#: build/directorybuilder/directorybuilder.js:1
+#: src/dashboard/pages/DirectoryBuilder.jsx:87
+msgid "Listing Type Edited Successfully"
+msgstr ""
+
+#: build/directorybuilder/directorybuilder.js:1
+#: src/dashboard/pages/DirectoryBuilder.jsx:97
+msgid "Listing Type Added Successfully"
+msgstr ""
+
+#: build/directorybuilder/directorybuilder.js:1
+#: src/dashboard/pages/DirectoryBuilder.jsx:374
+msgid "Save Changes"
+msgstr ""
+
+#: build/directorybuilder/directorybuilder.js:1
+#: src/dashboard/pages/DirectoryBuilder.jsx:401
+msgid "(You can't add preset field twice)"
+msgstr ""
+
+#: build/directorybuilder/directorybuilder.js:1
+#: src/dashboard/pages/DirectoryBuilder.jsx:423
+msgid "Custom Fields"
+msgstr ""
+
+#: build/directorybuilder/directorybuilder.js:1
+#: src/dashboard/pages/DirectoryBuilder.jsx:619
+msgid "Add Section"
+msgstr ""
+
+#: build/directorybuilder/directorybuilder.js:1
+#: src/dashboard/pages/DirectorySelect.jsx:106
+msgid "Listing Name"
+msgstr ""
+
+#: build/directorybuilder/directorybuilder.js:1
+#: src/dashboard/pages/DirectorySelect.jsx:135
+msgid "Listing Type Icon"
+msgstr ""
+
+#: build/directorybuilder/directorybuilder.js:1
+#: src/dashboard/pages/DirectorySelect.jsx:178
+msgid "Listing Builder"
+msgstr ""
+
+#: build/directorybuilder/directorybuilder.js:1
+#: src/dashboard/pages/DirectorySelect.jsx:183
+msgid "Select presets listing types"
+msgstr ""
+
+#: build/directorybuilder/directorybuilder.js:1
+#: src/dashboard/pages/DirectorySelect.jsx:197
+msgid "Classic/Default"
+msgstr ""
+
+#: build/directorybuilder/directorybuilder.js:1
+#: src/dashboard/components/dashboard/DirectoryType.jsx:37
+msgid "Action"
+msgstr ""
+
+#: build/directorybuilder/directorybuilder.js:1
+#: src/dashboard/components/dashboard/DirectoryType.jsx:26
+msgid "Directory Type Deleted Successfully"
+msgstr ""
+
+#: build/directorybuilder/directorybuilder.js:1
+#: src/dashboard/pages/Dashboard.jsx:79
+msgid "Welcome"
+msgstr ""
+
+#: build/directorybuilder/directorybuilder.js:1
+#: src/dashboard/pages/Dashboard.jsx:81
+msgid "It make your work and projects very easily"
+msgstr ""
+
+#: build/directorybuilder/directorybuilder.js:1
+#: src/dashboard/components/RouteWrapper.jsx:21
+msgid "Themes"
+msgstr ""
+
+#: build/directorybuilder/directorybuilder.js:1
+#: src/dashboard/components/RouteWrapper.jsx:29
+msgid "Go Pro"
+msgstr ""
+
+#: build/userdashboard/userdashboard.js:1
+#: src/userdashbaord/pages/Myprofile.jsx:497
+msgid "Save and Change"
+msgstr ""
+
+#: src/dashboard/components/builder/DraggField.jsx:128
+msgid "Edit"
+msgstr ""
+
+#: src/dashboard/components/builder/DraggField.jsx:135
+msgid "Delete"
+msgstr ""
+
+#: src/dashboard/components/settings/OpitonTextArea.jsx:47
+msgid "Message must be 120 Character"
+msgstr ""
+
+#: src/dashboard/components/settings/OptionMedia.jsx:53
+msgid "Select Preview Image"
+msgstr ""
+
+#: src/userdashbaord/controls/Range.jsx:47
+msgid "Desktop"
+msgstr ""
+
+#: src/userdashbaord/controls/Range.jsx:53
+msgid "Tablet"
+msgstr ""
+
+#: src/userdashbaord/controls/Range.jsx:59
+msgid "Mobile"
+msgstr ""
